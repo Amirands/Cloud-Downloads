@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6280",
+  "folder": "YouTube__watch_20260513212744_0cf2d5",
+  "base_name": "VLESS_Reverse_3X-UI_v2_9_4_QXRwJjXAjQ8_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Amirands/Cloud-Downloads/releases/tag/co-releases-v1-6280",
+  "files": [
+    {
+      "name": "VLESS_Reverse_3X-UI_v2_9_4_QXRwJjXAjQ8_1080p.mp4",
+      "url": "https://github.com/Amirands/Cloud-Downloads/releases/download/co-releases-v1-6280/VLESS_Reverse_3X-UI_v2_9_4_QXRwJjXAjQ8_1080p.mp4",
+      "api_url": "https://api.github.com/repos/Amirands/Cloud-Downloads/releases/assets/419634827",
+      "id": 419634827,
+      "size": 9335757,
+      "download_count": 0
+    }
+  ]
+}
